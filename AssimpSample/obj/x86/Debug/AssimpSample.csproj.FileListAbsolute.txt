@@ -1,0 +1,227 @@
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe.config
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\bin\Debug\3D Models\Touareg\Touareg.3DS
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\bin\Debug\AssimpSample.pdb
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\bin\Debug\AssimpNet.dll
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\bin\Debug\SharpGL.dll
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\bin\Debug\SharpGL.WPF.dll
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.baml
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\obj\x86\Debug\App.g.cs
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.GenerateResource.Cache
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.exe
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+C:\Users\Aleksandar\Desktop\Finito vežbe\cas04\AssimpSample\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\bin\Debug\3D Models\Touareg\Touareg.3DS
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe.config
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\bin\Debug\AssimpSample.pdb
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\bin\Debug\AssimpNet.dll
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\bin\Debug\SharpGL.dll
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\bin\Debug\SharpGL.WPF.dll
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csprojResolveAssemblyReference.cache
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.baml
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Debug\App.g.cs
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.GenerateResource.Cache
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.exe
+G:\POSAO\fax_drzanje_nastave\RG E2\RG vezbe 16_17\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+C:\Users\marija\Desktop\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe.config
+C:\Users\marija\Desktop\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.exe
+C:\Users\marija\Desktop\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+C:\Users\marija\Desktop\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+C:\Users\marija\Desktop\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+C:\Users\marija\Desktop\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+C:\Users\marija\Desktop\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\Apple.3DS
+C:\Users\marija\Desktop\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\Banana.3ds
+C:\Users\marija\Desktop\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\cherry.3DS
+C:\Users\marija\Desktop\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\Lemon.3ds
+C:\Users\marija\Desktop\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\Lemon.fbx
+C:\Users\marija\Desktop\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\orangeHalf.3ds
+C:\Users\marija\Desktop\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\orangeHalf2.3ds
+C:\Users\marija\Desktop\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\pumpkin.3ds
+C:\Users\marija\Desktop\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Touareg\Touareg.3DS
+C:\Users\marija\Desktop\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe
+C:\Users\marija\Desktop\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\AssimpSample.pdb
+C:\Users\marija\Desktop\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\AssimpNet.dll
+C:\Users\marija\Desktop\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\SharpGL.dll
+C:\Users\marija\Desktop\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\marija\Desktop\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\SharpGL.WPF.dll
+C:\Users\marija\Desktop\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csprojResolveAssemblyReference.cache
+C:\Users\marija\Desktop\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.baml
+C:\Users\marija\Desktop\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\marija\Desktop\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\App.g.cs
+C:\Users\marija\Desktop\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+C:\Users\marija\Desktop\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+C:\Users\marija\Desktop\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+C:\Users\marija\Desktop\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+C:\Users\marija\Desktop\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.GenerateResource.Cache
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Textures\floor_tex.jpg
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\Apple-3DS.3DS
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\Apple.3DS
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\Banana.3ds
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\cherry.3DS
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\GrapeFruit Half.lwo
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\Grapefruit Half.max
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\Lemon.3ds
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\Lemon.fbx
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\orangeHalf.3ds
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\orangeHalf2.3ds
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\pumpkin.3ds
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\Strawberry.3ds
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\Watermelon.3ds
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Touareg\Touareg.3DS
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe.config
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\AssimpSample.pdb
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\AssimpNet.dll
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\SharpGL.dll
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\SharpGL.WPF.dll
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csprojResolveAssemblyReference.cache
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.baml
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\App.g.cs
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.GenerateResource.Cache
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.exe
+D:\TheMara\IV PRNiI\Racunarska Grafika\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe.config
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.exe
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Textures\floor_tex.jpg
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\Apple-3DS.3DS
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\Apple.3DS
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\Banana.3ds
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\cherry.3DS
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\GrapeFruit Half.lwo
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\Grapefruit Half.max
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\Lemon.3ds
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\Lemon.fbx
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\orangeHalf.3ds
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\orangeHalf2.3ds
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\pumpkin.3ds
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\Strawberry.3ds
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\Watermelon.3ds
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Touareg\Touareg.3DS
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\AssimpSample.pdb
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\AssimpNet.dll
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\SharpGL.dll
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\SharpGL.WPF.dll
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csprojResolveAssemblyReference.cache
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.baml
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\App.g.cs
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+D:\TheMara\IV PRNiI\Racunarska Grafika\Vezbe_Projekat\Projekat_RG_E2\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.GenerateResource.Cache
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Textures\floor_tex.jpg
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\Apple-3DS.3DS
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\Apple.3DS
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\Banana.3ds
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\cherry.3DS
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\GrapeFruit Half.lwo
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\Grapefruit Half.max
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\Lemon.3ds
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\Lemon.fbx
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\orangeHalf.3ds
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\orangeHalf2.3ds
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\pumpkin.3ds
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\Strawberry.3ds
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Modeli\Watermelon.3ds
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Touareg\Touareg.3DS
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe.config
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\AssimpSample.pdb
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\AssimpNet.dll
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\SharpGL.dll
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\SharpGL.WPF.dll
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csprojAssemblyReference.cache
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.baml
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\App.g.cs
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.GenerateResource.cache
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.CopyComplete
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.exe
+E:\Fakultet, 4. godina\7. semestar\Racunarska grafika\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+C:\Users\Wheatley\Desktop\rg\raspakovane\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Touareg\Touareg.3DS
+C:\Users\Wheatley\Desktop\rg\raspakovane\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe.config
+C:\Users\Wheatley\Desktop\rg\raspakovane\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe
+C:\Users\Wheatley\Desktop\rg\raspakovane\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\AssimpSample.pdb
+C:\Users\Wheatley\Desktop\rg\raspakovane\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\AssimpNet.dll
+C:\Users\Wheatley\Desktop\rg\raspakovane\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\SharpGL.dll
+C:\Users\Wheatley\Desktop\rg\raspakovane\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Wheatley\Desktop\rg\raspakovane\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\SharpGL.WPF.dll
+C:\Users\Wheatley\Desktop\rg\raspakovane\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csprojAssemblyReference.cache
+C:\Users\Wheatley\Desktop\rg\raspakovane\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.baml
+C:\Users\Wheatley\Desktop\rg\raspakovane\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Wheatley\Desktop\rg\raspakovane\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\App.g.cs
+C:\Users\Wheatley\Desktop\rg\raspakovane\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+C:\Users\Wheatley\Desktop\rg\raspakovane\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+C:\Users\Wheatley\Desktop\rg\raspakovane\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+C:\Users\Wheatley\Desktop\rg\raspakovane\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+C:\Users\Wheatley\Desktop\rg\raspakovane\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.GenerateResource.cache
+C:\Users\Wheatley\Desktop\rg\raspakovane\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.CoreCompileInputs.cache
+C:\Users\Wheatley\Desktop\rg\raspakovane\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.CopyComplete
+C:\Users\Wheatley\Desktop\rg\raspakovane\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.exe
+C:\Users\Wheatley\Desktop\rg\raspakovane\RG_RA58-2014\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+C:\Users\Wheatley\Desktop\rg\raspakovane\RG_RA58-2014\AssimpSample\AssimpSample\bin\Debug\3D Models\Computer\Wolf Logan.3ds
+C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\bin\Debug\3D Models\Computer\Wolf Logan.3ds
+C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\bin\Debug\3D Models\Touareg\Touareg.3DS
+C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe.config
+C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe
+C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\bin\Debug\AssimpSample.pdb
+C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\bin\Debug\AssimpNet.dll
+C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\bin\Debug\SharpGL.dll
+C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\bin\Debug\SharpGL.WPF.dll
+C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csprojAssemblyReference.cache
+C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.baml
+C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\obj\x86\Debug\App.g.cs
+C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.GenerateResource.cache
+C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.CoreCompileInputs.cache
+C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.CopyComplete
+C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.exe
+C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.pdb
