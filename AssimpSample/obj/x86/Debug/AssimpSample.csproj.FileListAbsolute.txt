@@ -212,7 +212,6 @@ C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\
 C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\bin\Debug\SharpGL.dll
 C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
 C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\bin\Debug\SharpGL.WPF.dll
-C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csprojAssemblyReference.cache
 C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.baml
 C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.g.cs
 C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\obj\x86\Debug\App.g.cs
@@ -225,3 +224,7 @@ C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\
 C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.CopyComplete
 C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.exe
 C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\bin\Debug\3D Models\Computer\pc.3DS
+C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\bin\Debug\3D Models\Computer\pc.gsm
+C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\bin\Debug\3D Models\Computer\pc.max
+C:\Users\Wheatley\Desktop\rg\raspakovane\moja grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csprojAssemblyReference.cache

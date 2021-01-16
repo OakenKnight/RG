@@ -4,11 +4,22 @@
         Title="SharpGL WPF Application" Height="350" Width="525" 
         xmlns:sharpGL="clr-namespace:SharpGL.WPF;assembly=SharpGL.WPF" KeyDown="Window_KeyDown">
     <Grid>
-        
+
         <!-- The OpenGL control provides a OpenGL drawing surface. -->
         <sharpGL:OpenGLControl 
             Name="openGLControl" OpenGLDraw="openGLControl_OpenGLDraw" 
             OpenGLInitialized="openGLControl_OpenGLInitialized" Resized="openGLControl_Resized"
             DrawFPS="True" RenderContextType="FBO" FrameRate="10"/>
+
+        <Slider Height="23" HorizontalAlignment="Left" Margin="10,0,71,0" Name="slider1" VerticalAlignment="Top" Width="100" Maximum="1.85" ValueChanged="slider1_ValueChanged" />
+
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="130,0,0,0" Name="red" VerticalAlignment="Top" Width="30" Background="Red" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="170,0,0,0" Name="green" VerticalAlignment="Top" Width="30" Background="Green" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="210,0,0,0" Name="blue" VerticalAlignment="Top" Width="30" Background="Blue" />
+        <Button Content="Ok" Height="23" HorizontalAlignment="Left" Margin="250,0,0,0" Name="button1" VerticalAlignment="Top" Width="41" Click="button1_Click" />
+        
+        <Slider Height="23" HorizontalAlignment="Left" Margin="300,0,71,0" Name="slider2" VerticalAlignment="Top" Width="100" Maximum="900" ValueChanged="slider2_ValueChanged" />
+
+
     </Grid>
 </Window>
