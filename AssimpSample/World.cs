@@ -90,16 +90,11 @@ namespace AssimpSample
         public bool slowerRotate = false;
         public bool stopRotate = false;
 
-        private float animationFX11 = 0.0f;
-        private float animationFX12 = 0.0f;
         private float animationF1Z = 0.0f;
 
-        private float animationFX21 = 0.0f;
-        private float animationFX22 = 0.0f;
         private float animationF2R = 10000f;
         private float animationF3Y = 0;
         private float animationF3X = 0;
-        private float animationF3R = 0.0f;
         private float animationF4Y = 0.0f;
         private float animationF5Z = 0.0f;
 
@@ -198,18 +193,12 @@ namespace AssimpSample
         {
             if (isAnimation)
             {
-                if (ejectHolder && rotateDisc)
-                {
                     if (animationF1Z < 180.0f)  
                     {
                         animationF1Z += 5.0f;
                     }
                     else    
                     {
-                        //slowerRotate = true;
-                        //// TODO ukloniti
-                        //isAnimation = false;
-                        //animationF1Z = 0.0f;
 
                         if (animationF2R > 0)
                         {
@@ -241,7 +230,6 @@ namespace AssimpSample
                                         animationF2R = 10000f;
                                         animationF3X = 0.0f;
                                         animationF3Y = 0.0f;
-                                        animationF3R = 0.0f;
                                         animationF4Y = 0.0f;
                                         animationF5Z = 0.0f;
                                     }
@@ -249,7 +237,7 @@ namespace AssimpSample
 
                             }
 
-                        }
+                        
                     }
                 }
             }
@@ -261,14 +249,16 @@ namespace AssimpSample
         {
             Animate();
 
-            float[] white_light = { 1.0f, 1.0f, 1.0f, 1.0f };
+            //ovaj deo mi je malo fuzzy pa samo da proverim sta radi sta i gde u ovom delu
+            
+            //float[] white_light = { 1.0f, 1.0f, 1.0f, 1.0f };
 
-            gl.Enable(OpenGL.GL_COLOR_MATERIAL);
-            gl.ColorMaterial(OpenGL.GL_FRONT, OpenGL.GL_AMBIENT_AND_DIFFUSE);
-            gl.LightModel(LightModelParameter.Ambient, white_light);
+            //gl.Enable(OpenGL.GL_COLOR_MATERIAL);
+            //gl.ColorMaterial(OpenGL.GL_FRONT, OpenGL.GL_AMBIENT_AND_DIFFUSE);
+            //gl.LightModel(LightModelParameter.Ambient, white_light);
 
-            gl.ClearColor(0.0f, 0.0f, 0.0f, 1.0f);
-            gl.Color(1f, 0f, 0f);
+            //gl.ClearColor(0.0f, 0.0f, 0.0f, 1.0f);
+            //gl.Color(1f, 0f, 0f);
 
             // Model sencenja na flat (konstantno)
             gl.ShadeModel(OpenGL.GL_FLAT);
@@ -278,10 +268,9 @@ namespace AssimpSample
 
             // ukljucen color tracking
             gl.Enable(OpenGL.GL_COLOR_MATERIAL);
-
+            
             gl.ColorMaterial(OpenGL.GL_FRONT, OpenGL.GL_AMBIENT_AND_DIFFUSE);
 
-            gl.TexEnv(OpenGL.GL_TEXTURE_ENV, OpenGL.GL_TEXTURE_ENV_MODE, OpenGL.GL_ADD);
 
             SetupTexture(gl);
 
@@ -300,6 +289,7 @@ namespace AssimpSample
         {
             Draw(this.gl);
         }
+
         public void Draw(OpenGL gl)
         {
             gl.Clear(OpenGL.GL_COLOR_BUFFER_BIT | OpenGL.GL_DEPTH_BUFFER_BIT);
@@ -317,14 +307,14 @@ namespace AssimpSample
             gl.PushMatrix();
             gl.BindTexture(OpenGL.GL_TEXTURE_2D, m_textures[(int)TextureObjects.Carpet]);
             gl.Normal(0.0f, 1.0f, 0.0f);
-            gl.Color(0.71, 0.73, 0.75);
+            gl.Color(0.1f, 0.1f, 0.1f);
             gl.Translate(0.0f, 0.0f, 0.0f);
             gl.Scale(5000.0f, 5000.0f, 5000.0f);
+            gl.TexEnv(OpenGL.GL_TEXTURE_ENV, OpenGL.GL_TEXTURE_ENV_MODE, OpenGL.GL_ADD);
             drawFloor(gl);
             gl.PopMatrix();
+            gl.TexEnv(OpenGL.GL_TEXTURE_ENV, OpenGL.GL_TEXTURE_ENV_MODE, OpenGL.GL_MODULATE);
 
-            // vertex u centru podloge 
-            // vertex u centru podloge + 10*normala
 
             gl.PushMatrix();
             Cube table = new Cube();
@@ -454,13 +444,14 @@ namespace AssimpSample
 
             gl.PushMatrix();
             Disk disk = new Disk();
-
+            disk.NormalGeneration = Normals.Smooth; //automatsko genersanje normala
+            disk.NormalOrientation = Orientation.Outside; //automatsko generisanje normala
             disk.InnerRadius = 2.0f;
             disk.OuterRadius = 10.0f;
             disk.CreateInContext(gl);
             gl.Translate(-330.0f + animationF3X, 290.0f + animationF3Y - animationF4Y, 180.0f + animationF1Z);
             gl.Scale(7.3f, 7.3f, 7.3f);
-            gl.Rotate(0.0f, animationF2R, 0.0f);
+            gl.Rotate(0.0f, animationF2R,0.0f);
             gl.Rotate(90.0f, 180.0f, 0.0f);
 
             gl.Color(255.0f, 255.0f, 255.0f); 
@@ -554,6 +545,8 @@ namespace AssimpSample
 
             // Ukljuci automatsku normalizaciju nad normalama
             gl.Enable(OpenGL.GL_NORMALIZE);
+            gl.ShadeModel(OpenGL.GL_SMOOTH);
+
         }
 
         /// <summary>
