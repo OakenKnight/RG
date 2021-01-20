@@ -249,16 +249,6 @@ namespace AssimpSample
         {
             Animate();
 
-            //ovaj deo mi je malo fuzzy pa samo da proverim sta radi sta i gde u ovom delu
-            
-            //float[] white_light = { 1.0f, 1.0f, 1.0f, 1.0f };
-
-            //gl.Enable(OpenGL.GL_COLOR_MATERIAL);
-            //gl.ColorMaterial(OpenGL.GL_FRONT, OpenGL.GL_AMBIENT_AND_DIFFUSE);
-            //gl.LightModel(LightModelParameter.Ambient, white_light);
-
-            //gl.ClearColor(0.0f, 0.0f, 0.0f, 1.0f);
-            //gl.Color(1f, 0f, 0f);
 
             // Model sencenja na flat (konstantno)
             gl.ShadeModel(OpenGL.GL_FLAT);
@@ -313,6 +303,8 @@ namespace AssimpSample
             gl.TexEnv(OpenGL.GL_TEXTURE_ENV, OpenGL.GL_TEXTURE_ENV_MODE, OpenGL.GL_ADD);
             drawFloor(gl);
             gl.PopMatrix();
+
+
             gl.TexEnv(OpenGL.GL_TEXTURE_ENV, OpenGL.GL_TEXTURE_ENV_MODE, OpenGL.GL_MODULATE);
 
 
@@ -503,7 +495,7 @@ namespace AssimpSample
             float[] global_ambient = new float[] { 0.4f, 0.4f, 0.4f, 1.0f };
             gl.LightModel(OpenGL.GL_LIGHT_MODEL_AMBIENT, global_ambient);
 
-            float[] light1pos = new float[] { 0.0f, 4000.0f, 0.0f, 1.0f };
+            float[] light1pos = new float[] { 0.0f, 2000.0f, 0.0f, 1.0f };
             float[] light1ambient = new float[] { color_r, color_g, color_b, 1.0f };
             float[] light1diffuse = new float[] { 0.99f, 0.0f, 0.0f, 1.0f };
             float[] light1specular = new float[] { 0.8f, 0.8f, 0.8f, 1.0f };
@@ -529,7 +521,7 @@ namespace AssimpSample
             float[] global_ambient = new float[] { 0.4f, 0.4f, 0.4f, 1.0f };
             gl.LightModel(OpenGL.GL_LIGHT_MODEL_AMBIENT, global_ambient);
 
-            float[] light_pos = new float[] { 0.0f, 4000.0f, 0.0f, 1.0f };
+            float[] light_pos = new float[] { 0.0f, 4000.0f, -6000.0f, 1.0f };
             float[] light_ambient = new float[] { 0.2f, 0.2f, 0.2f, 1.0f };
             float[] light_diffuse = new float[] { 0.99f, 0.99f, 0.99f, 1.0f };
             float[] light_specular = new float[] { 0.8f, 0.8f, 0.8f, 1.0f };
